@@ -16,6 +16,9 @@ FinTrack helps you keep track of your daily expenses, monitor your income, and v
 ## Screenshots 📱
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/0dba2ec6-2741-4493-8107-5a49575f23b3"  width="30%" />
+  <img src="https://github.com/user-attachments/assets/67454cfa-2ea5-474f-b274-8076c0d3f6de" width="30%" />
+  <img src="https://github.com/user-attachments/assets/eb4b7d2f-1a54-4f46-95f2-e049bac40d5c" width="30%" />
   <img src="https://github.com/user-attachments/assets/f220dacc-d656-480f-b16f-8e871b792986" width="30%" />
   <img src="https://github.com/user-attachments/assets/fb8a132f-6434-422f-85e7-3eb78839ebdc" width="30%" />
   <img src="https://github.com/user-attachments/assets/d39f752e-4a8c-4279-9c0d-edc5e10d96cd" width="30%" />
