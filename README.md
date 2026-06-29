@@ -17,11 +17,11 @@ FinTrack helps you keep track of your daily expenses, monitor your income, and v
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f220dacc-d656-480f-b16f-8e871b792986" width="30%" />
-  <img src="https://github.com/user-attachments/assets/351eb281-617e-4278-aa44-c805e1c71732" width="30%" />
-  <img src="https://github.com/user-attachments/assets/5332cd8e-c104-426c-990b-8e8494c18f31" width="30%" />
-  <img src="https://github.com/user-attachments/assets/8cdb938b-a197-4e68-9409-8f968e20e12e" width="30%" />
-  <img src="https://github.com/user-attachments/assets/fb09b19e-82b0-4404-8319-32d1091f8349" width="30%" />
-  <img src="https://github.com/user-attachments/assets/bb5f7644-ecfd-47c8-89f1-261e56262217" width="30%" />
+  <img src="https://github.com/user-attachments/assets/fb8a132f-6434-422f-85e7-3eb78839ebdc" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d39f752e-4a8c-4279-9c0d-edc5e10d96cd" width="30%" />
+  <img src="https://github.com/user-attachments/assets/53050ebd-8e9e-4339-a8f3-63f454c99d7d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/046d8977-8689-4fdc-a029-4a89c81a642d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/299f998a-1aa1-451d-bbbb-cdb487e71d06" width="30%" />
 </p>
 
 
